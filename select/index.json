@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "BADASS",
+  "base_artist": "Jeremy Quartus",
+  "createdAt": "2026-02-17T11:32:45.079620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Badass Rock 'n' Roll",
+      "artist": "Anvil",
+      "has_synced": false,
+      "path": "select/01_Badass_Rock_'n'_Roll_Anvil.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Badass Babuaa",
+      "artist": "Abhishek Nailwal feat. Neha Bhasin & Sameer Uddin",
+      "has_synced": false,
+      "path": "select/02_Badass_Babuaa_Abhishek_Nailwal_feat._Neha_Bhasin_&_Sameer_Uddin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Badass Babuaa",
+      "artist": "Abhishek Nailwal & Neha Bhasin",
+      "has_synced": false,
+      "path": "select/03_Badass_Babuaa_Abhishek_Nailwal_&_Neha_Bhasin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Captain Badass",
+      "artist": "Songs: Ohia",
+      "has_synced": false,
+      "path": "select/04_Captain_Badass_Songs__Ohia.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Badass",
+      "artist": "Saliva",
+      "has_synced": true,
+      "path": "select/05_Badass_Saliva.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "American Badass",
+      "artist": "Rock Kid Cowboy",
+      "has_synced": false,
+      "path": "select/06_American_Badass_Rock_Kid_Cowboy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All American Badass",
+      "artist": "Mad Caddies",
+      "has_synced": true,
+      "path": "select/07_All_American_Badass_Mad_Caddies.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Badass",
+      "artist": "Reckless Love",
+      "has_synced": true,
+      "path": "select/08_Badass_Reckless_Love.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Badass",
+      "artist": "Neffex",
+      "has_synced": true,
+      "path": "select/09_Badass_Neffex.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Badass",
+      "artist": "NEFFEX",
+      "has_synced": true,
+      "path": "select/10_Badass_NEFFEX.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "America (feat. Casey Veggies & Joey Badass)",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/11_America_(feat._Casey_Veggies_&_Joey_Badass)_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Badass Woman - From The Motion Picture \"The Hustle\"",
+      "artist": "Meghan Trainor",
+      "has_synced": false,
+      "path": "select/12_Badass_Woman_-_From_The_Motion_Picture__The_Hustle_Meghan_Trainor.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Badass Woman",
+      "artist": "Meghan Trainor",
+      "has_synced": true,
+      "path": "select/13_Badass_Woman_Meghan_Trainor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Badass",
+      "artist": "MC Chris",
+      "has_synced": true,
+      "path": "select/14_Badass_MC_Chris.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chim Chim's Badass Revenge",
+      "artist": "Fishbone",
+      "has_synced": false,
+      "path": "select/15_Chim_Chim's_Badass_Revenge_Fishbone.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Badass",
+      "artist": "Feed Her To The Sharks",
+      "has_synced": true,
+      "path": "select/16_Badass_Feed_Her_To_The_Sharks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BADASS",
+      "artist": "Jeremy Quartus",
+      "has_synced": false,
+      "path": "select/pl_01_BADASS_Jeremy_Quartus.txt"
+    }
+  ]
+}
